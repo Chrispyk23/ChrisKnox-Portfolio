@@ -14,7 +14,7 @@ function Projects() {
                 <h4> Password Check </h4>
                 <p> This is a simple password checker that checks if a password is strong or weak. It checks for the length of the password, if it contains a number, a special character, and if it contains a capital letter or digit. </p>
                 
-                <a href="https://github.com/Chrispyk23/Passcheck/blob/main/Passcheck" target="_blank" rel="noopener noreferrer">VIEW CODE</a>
+                <a href="https://github.com/Chrispyk23/PassCheck" target="_blank" rel="noopener noreferrer">VIEW CODE</a>
                 </div>
 
                 <div classname="Projects">
